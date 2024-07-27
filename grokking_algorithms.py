@@ -283,4 +283,9 @@ while states_needed:
     states_needed -= states_covered
     final_stations.add(best_station)
 
-print(final_stations)
+# print(final_stations)
+
+
+
+# --------------------------------------------------------------------------------------------------------------------
+# Сортировка слиянием - сложность O(n^2).
